@@ -1,0 +1,23 @@
+commit 623aea833aa2b09e0886ed166351e8b4eb0f2210
+Author: skepticalpagan <skepticalbrahmin@gmail.com>
+Date:   Sat Dec 30 14:21:42 2017 -0800
+
+    committed toby.jpg
+
+commit 500c324553157acaa28fa1a7c1981fd94fa3dd3b
+Author: skepticalpagan <skepticalbrahmin@gmail.com>
+Date:   Sat Dec 30 14:04:38 2017 -0800
+
+    added gitignore
+
+commit 7bb2da84ec0cc3ae8251eeaf83d3eaf9c0252b56
+Author: skepticalpagan <skepticalbrahmin@gmail.com>
+Date:   Mon Dec 25 18:51:30 2017 -0800
+
+    added two files
+
+commit d599c974ed7e4084038ffd76a2891f6232e7e8a8
+Author: skepticalpagan <skepticalbrahmin@gmail.com>
+Date:   Mon Dec 25 18:43:30 2017 -0800
+
+    added readme.txt
